@@ -1,5 +1,5 @@
 # RxOpus
-##Set of tools to work with Opus. Written on Kotlin and RxJava2
+## Set of tools to work with Opus. Written on Kotlin and RxJava2
 
 Based on https://github.com/Gagravarr/VorbisJava and https://github.com/martoreto/opuscodec
 
